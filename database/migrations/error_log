@@ -1,0 +1,3 @@
+[24-Dec-2020 03:27:20 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/abglrotu/public_html/divinegreen.co.uk/database/migrations/2020_09_29_115117_create_ratings_table.php on line 7
+[24-Dec-2020 03:27:43 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/abglrotu/public_html/divinegreen.co.uk/database/migrations/2020_09_29_115117_create_ratings_table.php on line 7
+[24-Dec-2020 03:27:47 America/New_York] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/abglrotu/public_html/divinegreen.co.uk/database/migrations/2020_09_29_115117_create_ratings_table.php on line 7

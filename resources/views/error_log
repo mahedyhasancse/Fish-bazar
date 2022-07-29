@@ -1,0 +1,4 @@
+[24-Dec-2020 03:28:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\ProductCategory' not found in /home/abglrotu/public_html/divinegreen.co.uk/resources/views/welcome.blade.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/abglrotu/public_html/divinegreen.co.uk/resources/views/welcome.blade.php on line 5
